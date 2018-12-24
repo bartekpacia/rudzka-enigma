@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Rudzka Enigma</string>
+
+    <string name="hint_text">Wprowadź tekst</string>
+        <string name="hint_number">Wprowadź przestaw (Rudzka Enigma ma 4)</string>
+    <string name="encode">Zakoduj</string>
+    <string name="decode">Odkoduj</string>
+    <string name="warning">UWAGA! Obsługuje JEDYNIE małe litery. Nie obsługuje cyfr, znaków interpunkcyjnych etc.</string>
+
+    <string name="creators">Szyfr Rudzka Enigma stworzyli Damian Marek, Damian Dudek, Bartek Pacia, Kamil Galdia</string>
+    <string name="creator">Aplikację stworzył Bartek Pacia dnia 22.11.2017</string>
+
+</resources>
